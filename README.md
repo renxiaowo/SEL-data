@@ -14,3 +14,6 @@ GpsToBase.txt: The base station samples and their corresponding longitudes and l
 4.AggregatedData
 AggregatedData.txt: The features extracted from App usage records and POIs data. It is used to train regression model and classification models.
 
+5.code
+
+The codes for training models and analyzing features.
