@@ -13,3 +13,8 @@ GpsToBase.txt: The base station samples and their corresponding longitudes and l
 
 4.AggregatedData
 AggregatedData.txt: The features extracted from App usage records and POIs data. It is used to train regression model and classification models.
+
+5.GroundTruth
+Gdp.txt: The GDP data of blocks in Shanghai.
+GdpLabel3class.txt: The labels for 3 Socio-economic levels of blocks in Shanghai.
+GdpLabel4class.txt:  The labels for 4 Socio-economic levels of blocks in Shanghai.
